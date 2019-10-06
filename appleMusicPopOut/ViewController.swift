@@ -31,6 +31,7 @@ class ViewController: UIViewController {
 
     func initButton() {
         
+        
         popOutBtn.layer.cornerRadius = 0.5 * popOutBtn.bounds.size.width
         popOutBtn.clipsToBounds = true
 //        popOutBtn.setImage(UIImage(named:"thumbsUp.png"), for: .normal)
