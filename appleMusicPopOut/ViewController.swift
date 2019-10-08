@@ -72,6 +72,10 @@ class ViewController: UIViewController {
         view.addSubview(tableView)
     }
     
+    
+    
+    
+    
     func adjustTableView() {
         self.view.backgroundColor = .darkGray
         self.tableView.backgroundColor = UIColor.lightText
